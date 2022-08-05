@@ -9,3 +9,5 @@ Previously, I ran [a software company](https://www.saffron.so/) for 10 years and
 I care about kindness and socioeconomic equality, [music](https://vladh.net/music), [languages](https://vladh.net/german-nouns), and I love cats and birds.
 
 You can contact me via [email](mailto:vlad@vladh.net) or [Telegram](https://t.me/squishfish). Read more at [vladh.net](https://vladh.net).
+
+This is a mirror of [my Sourcehut repositories](https://sr.ht/~vladh), let's move there!

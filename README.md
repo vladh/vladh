@@ -10,4 +10,4 @@ I care about kindness and socioeconomic equality, [music](https://vladh.net/musi
 
 You can contact me via [email](mailto:vlad@vladh.net) or [Telegram](https://t.me/squishfish). Read more at [vladh.net](https://vladh.net).
 
-This is a mirror of [my Sourcehut repositories](https://sr.ht/~vladh), let's move there!
+This is a mirror of [my Sourcehut repositories](https://sr.ht/~vladh).

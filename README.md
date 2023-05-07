@@ -11,7 +11,7 @@ programming things from scratch.
 
 When it comes to philosophy, I write about inequality and about how to improve the ways in which we work with each
 other. I am currently researching the epistemic implications of alienation at
-[UCL](https://www.ucl.ac.uk/philosophy/ucl-department-philosophy'). I sometimes [write about these
+[UCL](https://www.ucl.ac.uk/philosophy/ucl-department-philosophy). I sometimes [write about these
 topics](https://vladh.net/alternatives-to-wage-labour) on my website, and have also posted [a handy reading
 guide](https://vladh.net/wage-labour-resources).
 

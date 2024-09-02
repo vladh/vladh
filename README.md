@@ -21,13 +21,14 @@ I sometimes
 to appreciate programming things from scratch.
 
 Previously, I spent 10 years running
-[a software company](https://www.saffron.so)
-that made web applications and data visualisation tools for places like the
+[Saffron](https://www.saffron.so) —
+we made web applications and data visualisation tools for places like the
 [University of Oxford](http://www.cncb.ox.ac.uk/)
 and the
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/).
-I also co-founded a company that made
-[retro gaming devices](https://vladh.net/submodule).
+I also co-founded
+[Submodule](/submodule),
+a company that made a Game Boy cartridge reader.
 
 I'm a PhD researcher in the philosophy department of the
 [University of Edinburgh](https://www.ed.ac.uk/ppls/philosophy),

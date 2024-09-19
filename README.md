@@ -10,17 +10,18 @@ I run [Peony Software](https://peony.software), a one-person software
 development studio in lovely
 [Edinburgh, Scotland](https://vladh.net/static/photos/full/20220607.%20Water%20of%20Leith,%20Edinburgh,%20Scotland.jpg),
 where I work on next-generation spreadsheet software.
-I'm a maintainer of the
-[Hare programming language](https://vladh.net/hare),
-I'm working on redirecting money to open source software developers
-in my role as core contributor to
+I'm also working on redirecting money to open source software developers
+by building
 [Open Source Pledge](https://osspledge.com)
 and
-[thanks.dev](https://thanks.dev),
-and I'm also
-[building a 3D game engine](https://vladh.net/peony).
-I sometimes
-[teach others](https://vladh.net/clumsycomputer)
+[thanks.dev](https://thanks.dev)
+together with friends.
+When I find time, I co-maintain the
+[Hare programming language](/hare),
+and
+[work on my 3D game engine](/peony).
+Even more occasionally, I
+[teach others](/clumsycomputer)
 to appreciate programming things from scratch.
 
 Previously, I spent 10 years running

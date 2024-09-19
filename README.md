@@ -6,7 +6,10 @@ I celebrate playful creation over alienated wage labour.
 I think that being kind is important, and
 I love cats and birds.
 
-I'm working on unannounced next-generation spreadsheet software,
+I run [Peony Software](https://peony.software), a one-person software
+development studio in lovely
+[Edinburgh, Scotland](https://vladh.net/static/photos/full/20220607.%20Water%20of%20Leith,%20Edinburgh,%20Scotland.jpg),
+where I work on next-generation spreadsheet software.
 I'm a maintainer of the
 [Hare programming language](https://vladh.net/hare),
 I'm working on redirecting money to open source software developers

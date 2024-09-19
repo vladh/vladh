@@ -42,6 +42,8 @@ more generally.
 Check out
 [my handy reading guide on the philosophy of work](https://vladh.net/wage-labour-resources).
 
+I mostly unsuccessfully think of ways to build
+[low-carbon software](https://lowcarbon.software).
 I sometimes attempt to
 [make music](https://vladh.net/music),
 [take photos](https://vladh.net/photos)

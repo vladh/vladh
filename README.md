@@ -17,11 +17,11 @@ and
 [thanks.dev](https://thanks.dev)
 together with friends.
 When I find time, I co-maintain the
-[Hare programming language](/hare),
+[Hare programming language](https://vladh.net/hare),
 and
-[work on my 3D game engine](/peony).
+[work on my 3D game engine](https://vladh.net/peony).
 Even more occasionally, I
-[teach others](/clumsycomputer)
+[teach others](https://vladh.net/clumsycomputer)
 to appreciate programming things from scratch.
 
 Previously, I spent 10 years running
@@ -31,7 +31,7 @@ we made web applications and data visualisation tools for places like the
 and the
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/).
 I also co-founded
-[Submodule](/submodule),
+[Submodule](https://vladh.net/submodule),
 a company that made a Game Boy cartridge reader.
 
 I'm a PhD researcher in the philosophy department of the

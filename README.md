@@ -9,7 +9,7 @@
 
 <h3 align="center">
 	✨ ✨ ✨<br><br>
-	<a href="https://vladh.net">Visit my website</a><br><br>
+	<a href="https://vladh.net">Visit my website →</a><br><br>
 	✨ ✨ ✨
 </h3>
 

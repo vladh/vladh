@@ -1,7 +1,7 @@
 <p>
-	<a href="https://vladh.net">
+	<a href="https://vlad.website">
 		<img
-			src="https://vladh.net/static/peony/peony@1200px.jpg"
+			src="https://vlad.website/static/peony/peony@1200px.jpg"
 			alt="A screenshot from the Peony game engine, showing rocks in a simulated ocean"
 		>
 	</a>
@@ -9,7 +9,7 @@
 
 <h3 align="center">
 	✨ ✨ ✨<br><br>
-	<a href="https://vladh.net">Visit my website →</a><br><br>
+	<a href="https://vlad.website">Visit my website →</a><br><br>
 	✨ ✨ ✨
 </h3>
 
@@ -49,22 +49,22 @@ languages][german-nouns].
 
 This profile contains mirrors of [my Sourcehut repositories][srht-vlad].
 
-[garden]: https://vladh.net
+[garden]: https://vlad.website
 [peony]: https://peony.software/
-[edipic]: https://vladh.net/static/photos/full/20220607.%20Water%20of%20Leith,%20Edinburgh,%20Scotland.jpg
+[edipic]: https://vlad.website/static/photos/full/20220607.%20Water%20of%20Leith,%20Edinburgh,%20Scotland.jpg
 [osp]: https://opensourcepledge.com/
 [td]: https://thanks.dev/
-[hare]: https://vladh.net/hare
-[peony-game-engine]: https://vladh.net/peony
-[cc]: https://vladh.net/clumsycomputer
+[hare]: https://vlad.website/hare
+[peony-game-engine]: https://vlad.website/peony
+[cc]: https://vlad.website/clumsycomputer
 [edi]: https://www.ed.ac.uk/ppls/philosophy
-[work-post]: https://vladh.net/wage-labour-resources
+[work-post]: https://vlad.website/wage-labour-resources
 [lcs]: https://lowcarbon.software/
 [saffron]: https://www.saffron.so/
 [cncb]: http://www.cncb.ox.ac.uk/
 [bmgf]: https://www.gatesfoundation.org/
-[submodule]: https://vladh.net/submodule
-[music]: https://vladh.net/music
-[photos]: https://vladh.net/photos
-[german-nouns]: https://vladh.net/german-nouns
+[submodule]: https://vlad.website/submodule
+[music]: https://vlad.website/music
+[photos]: https://vlad.website/photos
+[german-nouns]: https://vlad.website/german-nouns
 [srht-vlad]: https://sr.ht/~vladh

@@ -23,7 +23,7 @@ I'm currently building, as of Oct 2024:
 
 * [Peony Software][peony], a one-person software development studio in lovely [Edinburgh, Scotland][edipic], where I
   work on next-generation spreadsheet software.
-* [Open Source Pledge][osp], which is creating a new social norm of companies paying open source maintainers they depend on.
+* The [Open Source Pledge][osp], which is [creating a new social norm of companies paying open source maintainers they depend on][osp-phil].
 * [thanks.dev][td], which helps companies figure out which maintainers they depend on, and to pay those maintainers.
 * [The Hare programming language][hare], a cosier alternative to C, useful for operating systems and video games.
 * [The Peony Game Engine][peony-game-engine], my experiment in building a game engine from complete scratch, because I
@@ -47,24 +47,27 @@ I previously built:
 Otherwise, I sometimes attempt, with mixed success, to [make music][music], [take photos][photos], and [think about
 languages][german-nouns].
 
-This profile contains mirrors of [my Sourcehut repositories][srht-vlad].
+> [!NOTE]
+> * This profile contains mirrors of [my Sourcehut repositories][srht-vlad].
+> * My contributions never include Generative AI content.
 
-[garden]: https://vlad.website
-[peony]: https://peony.software/
-[edipic]: https://vlad.website/static/photos/full/20220607.%20Water%20of%20Leith,%20Edinburgh,%20Scotland.jpg
-[osp]: https://opensourcepledge.com/
-[td]: https://thanks.dev/
-[hare]: https://vlad.website/hare
-[peony-game-engine]: https://vlad.website/peony
-[cc]: https://vlad.website/clumsycomputer
-[edi]: https://www.ed.ac.uk/ppls/philosophy
-[work-post]: https://vlad.website/wage-labour-resources
-[lcs]: https://lowcarbon.software/
-[saffron]: https://www.saffron.so/
-[cncb]: http://www.cncb.ox.ac.uk/
 [bmgf]: https://www.gatesfoundation.org/
-[submodule]: https://vlad.website/submodule
-[music]: https://vlad.website/music
-[photos]: https://vlad.website/photos
+[cc]: https://vlad.website/clumsycomputer
+[cncb]: http://www.cncb.ox.ac.uk/
+[edi]: https://www.ed.ac.uk/ppls/philosophy
+[edipic]: https://vlad.website/static/photos/full/20220607.%20Water%20of%20Leith,%20Edinburgh,%20Scotland.jpg
+[garden]: https://vlad.website
 [german-nouns]: https://vlad.website/german-nouns
+[hare]: https://vlad.website/hare
+[lcs]: https://lowcarbon.software/
+[music]: https://vlad.website/music
+[osp-phil]: https://vlad.website/the-philosophy-of-the-open-source-pledge/
+[osp]: https://opensourcepledge.com/
+[peony-game-engine]: https://vlad.website/peony
+[peony]: https://peony.software/
+[photos]: https://vlad.website/photos
+[saffron]: https://www.saffron.so/
 [srht-vlad]: https://sr.ht/~vladh
+[submodule]: https://vlad.website/submodule
+[td]: https://thanks.dev/
+[work-post]: https://vlad.website/wage-labour-resources

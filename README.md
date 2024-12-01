@@ -13,7 +13,9 @@
 	✨ ✨ ✨
 </h3>
 
-I work on programming and philosophy that contributes to the public good.
+I'm a researcher working on software and philosophy that contributes to the public good.
+I'm specialised in low-level programming, 3D graphics, web technologies,
+political philosophy and epistemology.
 I have much to learn, and
 I celebrate playful creation over alienated wage labour.
 I think that being kind is important, and

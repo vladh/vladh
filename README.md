@@ -53,6 +53,12 @@ languages][german-nouns].
 > * This profile contains mirrors of [my Sourcehut repositories][srht-vlad].
 > * My contributions never include Generative AI content.
 
+<p align="center">
+  <img src="https://vlad.website/static/shigoto_zaitaku_cat_man.png">
+  <br>
+  <sup>Image by <a href="https://www.irasutoya.com/">irasutoya</a>.</sup>
+</p>
+
 [bmgf]: https://www.gatesfoundation.org/
 [cc]: https://vlad.website/clumsycomputer
 [cncb]: http://www.cncb.ox.ac.uk/

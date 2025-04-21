@@ -13,15 +13,22 @@
 	✨ ✨ ✨
 </h3>
 
+I'm Vlad.
 I'm a researcher working on software and philosophy that contributes to the public good.
-I'm specialised in low-level programming, 3D graphics, web technologies,
-political philosophy and epistemology.
+I'm specialised in
+<a href="https://vlad.website/implementing-regular-expressions-in-hare/">low-level programming</a>,
+<a href="https://vlad.website/peony/">3D graphics</a>,
+web technologies,
+political and social philosophy, and epistemology.
 I have much to learn, and
-I celebrate playful creation over alienated wage labour.
-I think that being kind is important, and
+I celebrate playful creation over
+<a href="https://vlad.website/wage-labour-resources/">alienated wage labour</a>.
+I think that
+<a href="https://vlad.website/apologies/">being kind</a>
+is important, and
 I love cats and birds.
 
-I'm currently building, as of Oct 2024:
+I'm currently building, as of Jan 2025:
 
 * [Peony Software][peony], a one-person software development studio in lovely [Edinburgh, Scotland][edipic], where I
   work on next-generation spreadsheet software.
@@ -36,6 +43,7 @@ I'm currently a researcher at:
 
 * [The University of Edinburgh][edi], doing a PhD in Philosophy about why social conventions make us put up with
   exploitation, and about [work][work-post].
+* [The Ideology Research Group][irg], a group I co-organise dedicated to studying ideology broadly construted.
 * [Low Carbon Software][lcs], a not-quite-yet collective thinking about how to reduce carbon emissions caused by
   software.
 
@@ -62,11 +70,12 @@ languages][german-nouns].
 [bmgf]: https://www.gatesfoundation.org/
 [cc]: https://vlad.website/clumsycomputer
 [cncb]: http://www.cncb.ox.ac.uk/
-[edi]: https://www.ed.ac.uk/ppls/philosophy
+[edi]: https://edwebprofiles.ed.ac.uk/profile/vladh
 [edipic]: https://vlad.website/static/photos/full/20220607.%20Water%20of%20Leith,%20Edinburgh,%20Scotland.jpg
 [garden]: https://vlad.website
 [german-nouns]: https://vlad.website/german-nouns
 [hare]: https://vlad.website/hare
+[irg]: https://ideology.group/
 [lcs]: https://lowcarbon.software/
 [music]: https://vlad.website/music
 [osp-phil]: https://vlad.website/the-philosophy-of-the-open-source-pledge/

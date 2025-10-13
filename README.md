@@ -26,7 +26,7 @@ Source software ecosystem more sustainable.
 
 Current projects:
 
-* [Peony Software][peony] — Developing next-generation spreadsheet software
+* [Peony Software][peony] — Developing next-generation spreadsheet software.
 * [The Open Source Pledge][osp] — Creating a [new social norm][osp-phil] of companies paying Open Source maintainers.
 * [thanks.dev][td] — Helping companies identify and pay the maintainers they depend on.
 * [The Open Source Endowment][endowment] — The first endowment aiming to solve the global Open Source sustainability

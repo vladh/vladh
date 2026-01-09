@@ -13,6 +13,12 @@
 	✨ ✨ ✨
 </h3>
 
+> [!NOTE]
+> My code is not hosted on this GitHub profile due to ethical concerns. Find my work here:
+> * [codeberg.org/vladh](https://codeberg.org/vladh)
+> * [github.com/opensourcepledge](https://github.com/opensourcepledge)
+> * [git.sr.ht/~vladh](https://git.sr.ht/~vladh)
+
 I'm Vlad, an independent researcher working on software and philosophy that contributes to the public good.
 I specialise in
 Open Source software,
@@ -50,10 +56,6 @@ I previously built:
 
 Otherwise, I sometimes attempt, with mixed success, to [make music][music], [take photos][photos], and [think about
 languages][german-nouns].
-
-> [!NOTE]
-> * This profile contains mirrors of [my Sourcehut repositories][srht-vlad].
-> * My contributions never include Generative AI content.
 
 <p align="center">
   <img src="https://vlad.website/static/shigoto_zaitaku_cat_man.png">

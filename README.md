@@ -1,8 +1,8 @@
 <p>
 	<a href="https://vlad.website">
 		<img
-			src="https://vlad.website/static/peony/peony@1200px.jpg"
-			alt="A screenshot from the Peony game engine, showing rocks in a simulated ocean"
+			src="https://vlad.website/static/great-tit-crop@1200px.webp"
+			alt="A Great Tit on a branch"
 		>
 	</a>
 </p>
@@ -56,6 +56,15 @@ I previously built:
 
 Otherwise, I sometimes attempt, with mixed success, to [make music][music], [take photos][photos], and [think about
 languages][german-nouns].
+
+<p>
+	<a href="https://vlad.website">
+		<img
+			src="https://vlad.website/static/peony/peony@1200px.jpg"
+			alt="A screenshot from the Peony game engine, showing rocks in a simulated ocean"
+		>
+	</a>
+</p>
 
 <p align="center">
   <img src="https://vlad.website/static/shigoto_zaitaku_cat_man.png">

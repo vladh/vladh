@@ -18,6 +18,8 @@
 > * [codeberg.org/vladh](https://codeberg.org/vladh)
 > * [github.com/opensourcepledge](https://github.com/opensourcepledge)
 > * [git.sr.ht/~vladh](https://git.sr.ht/~vladh)
+>
+> I never use LLMs for my contributions or comments.
 
 <p align="center">
   <img src="https://vlad.website/static/shigoto_zaitaku_cat_man.png">

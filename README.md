@@ -14,7 +14,7 @@
 </h3>
 
 > [!NOTE]
-> My code is not hosted on this GitHub profile due to ethical concerns. Find my work here:
+> I prefer to use other platforms than GitHub, so most of my code is in other places, eg:
 > * [codeberg.org/vladh](https://codeberg.org/vladh)
 > * [github.com/opensourcepledge](https://github.com/opensourcepledge)
 > * [git.sr.ht/~vladh](https://git.sr.ht/~vladh)
